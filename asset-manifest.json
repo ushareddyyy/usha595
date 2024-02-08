@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ushareddyyy/595u.git/static/css/main.f855e6bc.css",
+    "main.js": "/ushareddyyy/595u.git/static/js/main.3b90b0ac.js",
+    "static/js/592.3e9cc780.chunk.js": "/ushareddyyy/595u.git/static/js/592.3e9cc780.chunk.js",
+    "static/media/logo.svg": "/ushareddyyy/595u.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ushareddyyy/595u.git/index.html",
+    "main.f855e6bc.css.map": "/ushareddyyy/595u.git/static/css/main.f855e6bc.css.map",
+    "main.3b90b0ac.js.map": "/ushareddyyy/595u.git/static/js/main.3b90b0ac.js.map",
+    "592.3e9cc780.chunk.js.map": "/ushareddyyy/595u.git/static/js/592.3e9cc780.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3b90b0ac.js"
+  ]
+}

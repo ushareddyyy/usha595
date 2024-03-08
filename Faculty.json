@@ -1,0 +1,37 @@
+[
+    {
+        "FacultyName": "Dr. Meeravali Shaikh",
+        
+        "FacultyPosition": "HOD",
+        
+        "FacultyImage": "https://cdn2.iconfinder.com/data/icons/office-and-business-round-set-1/64/6-512.png"
+    },
+    {
+        "FacultyName": "Dr. Arun Singh Chouhan",
+        
+        "FacultyPosition": "Associate Professor",
+        
+        "FacultyImage": "https://cdn2.iconfinder.com/data/icons/office-and-business-round-set-1/64/6-512.png"
+    },
+    {
+        "FacultyName": "Dr. M. Narayanan",
+        
+        "FacultyPosition": "Professor",
+        
+        "FacultyImage": "https://cdn2.iconfinder.com/data/icons/office-and-business-round-set-1/64/6-512.png"
+    },
+    {
+        "FacultyName": "Dr. P. Rambabu",
+        
+        "FacultyPosition": "Professor",
+        
+        "FacultyImage": "https://cdn2.iconfinder.com/data/icons/office-and-business-round-set-1/64/6-512.png"
+    },
+    {
+        "FacultyName": "Dr. M. Ravikanth",
+        
+        "FacultyPosition": "Associate Professor",
+        
+        "FacultyImage": "https://cdn2.iconfinder.com/data/icons/office-and-business-round-set-1/64/6-512.png"
+    }
+]
